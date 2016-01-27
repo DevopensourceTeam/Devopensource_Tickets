@@ -1,3 +1,7 @@
+## Magento 2
+
+This module only works in Magento 2
+
 ## Install
 
 In root of proyect.
